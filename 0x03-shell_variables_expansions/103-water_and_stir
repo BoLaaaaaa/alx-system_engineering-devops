@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(echo $WATER | tr 'ewatr' '01234')$(echo $STIR | tr 'ti.r' '01234') | echo $(printf %o $((result)))
+result=$(echo $WATER | tr 'water' '01234')$(echo $STIR | tr 'stir.' '01234') | echo $(printf %o $((result)))
